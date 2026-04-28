@@ -1,0 +1,6 @@
+pip install PyPDF2 pandas tiktoken
+输入文件夹路径为：  C:\Users\25757\PycharmProjects\文献采集\英文文献PDF——PDF_extraction的input
+                C:\Users\25757\PycharmProjects\文献采集\中文文献PDF——PDF_extraction的input
+试验集路径地址：   C:\Users\25757\PycharmProjects\文献采集\试验集
+
+2.0加入了编码的修改
