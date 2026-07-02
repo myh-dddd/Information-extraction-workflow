@@ -1,0 +1,6 @@
+﻿file_name,total_pages,original_pages,pages_count,pages_skipped,tokens,has_platinum_metals,has_platinum_precursors,has_her_parameters,has_synthesis_terms,relevance_score,content
+测试文本.pdf,1,1,1,0,765,True,True,True,True,8,"
+============================================================
+[Page 1/1]
+============================================================
+本文报道了一种新型 Pt3Ni/C催化剂用于酸性析氢反应。 采用浸渍还原法制备了 Pt3Ni/C催化剂。具体步骤：将 H2PtCl6和Ni(NO3)2 按3:1摩 尔比溶解于去离子水中，加入 Vulcan XC -72碳粉，超声分散 30分钟。然后加入 NaBH4作为还原剂，在 80℃下反应 2小时。产物经离心洗涤后，在 Ar气氛下于 300℃煅烧2小时。所得催化剂中铂负载量为 20 wt%。 TEM表征显示 Pt3Ni纳米颗粒均匀分散在碳载体上，平均粒径为 3.5 nm。XRD图谱显 示催化剂具有面心立方结构。 XPS分析表明 Pt主要以金属态存在，结合能为 71.2 eV。 电化学测试在 0.5 M H2SO4 电解液中进行，采用三电极体系， Ag/AgCl 为参比电极， 铂丝为对电极。 LSV测试显示，该催化剂在 10 mA/cm ²电流密度下的过电位为 38 mV，在100 mA/cm ²下为87 mV。Tafel斜率为32 mV/dec ，表明遵循 Volmer- Heyrovsky 机理。ECSA计算值为 89.5 m²/g_Pt。 稳定性测试：在恒电流密度 10 mA/cm ²下连续运行 24小时后，过电位仅增加 5 mV， 衰减率为 0.6%。与商用 20 wt% Pt/C 对比，本催化剂的 HER活性优于 Pt/C。 此外，本文还制备了不同组成的对比样品： Pt/C（铂负载量 20 wt%）、PtNi/C （Pt:Ni=1:1 ）和PtCo/C。Pt/C样品的过电位为 45 mV@10 mA/cm ²，Tafel斜率为35 mV/dec。PtNi/C样品的过电位为 52 mV@10 mA/cm ²。 另一组实验采用电沉积法制备了 Pt/TiO2催化剂。将钛箔在 0.5 mM H2PtCl6 溶液中于 -0.2 V电位下沉积 300秒，得到 Pt纳米颗粒。该催化剂的过电位为 42 mV@10 mA/cm²，颗粒尺寸为 8-12 nm。 总结：Pt3Ni/C催化剂展现出优异的 HER性能，有望替代商用 Pt/C。"
